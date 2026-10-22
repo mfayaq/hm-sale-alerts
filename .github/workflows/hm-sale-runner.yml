@@ -1,0 +1,82 @@
+name: H&M Sale Alerts
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Fetch and report counts without Telegram or state writes
+        required: false
+        type: boolean
+        default: false
+      force_resend:
+        description: Resend deals despite saved alert state (uses first-run limits)
+        required: false
+        type: boolean
+        default: false
+      first_run_limit:
+        description: Optional first-run limit per section; use all for every match
+        required: false
+        type: string
+        default: ''
+      sections:
+        description: Optional comma-separated sections (men,women,kids); blank uses config
+        required: false
+        type: string
+        default: ''
+permissions:
+  contents: write
+concurrency:
+  group: hm-sale-runner
+  cancel-in-progress: false
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Checkout state branch
+        id: state_checkout
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          ref: state
+          path: .state
+          persist-credentials: true
+      - name: Initialize state branch when missing
+        if: ${{ !inputs.dry_run && steps.state_checkout.outcome == 'failure' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          mkdir -p .state
+          rm -rf .state/.git
+          cd .state
+          git init -b state
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          printf '{"version":1,"items":{}}\n' > seen.json
+          git add seen.json
+          git commit -m 'Initialize H&M alert state'
+          git -c http.extraheader="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)" push "https://github.com/${GITHUB_REPOSITORY}.git" state
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Validate state file
+        run: mkdir -p .state && test -f .state/seen.json || printf '{"version":1,"items":{}}\n' > .state/seen.json
+      - name: Run H&M scan
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          STATE_FILE: .state/seen.json
+          FIRST_RUN_LIMIT: ${{ inputs.first_run_limit }}
+          SECTIONS: ${{ inputs.sections }}
+        run: node runner/src/run.js ${{ inputs.dry_run && '--dry-run' || '' }} ${{ inputs.force_resend && '--force-resend' || '' }}
+      - name: Persist state branch
+        if: ${{ always() && !inputs.dry_run }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd .state
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add seen.json
+          git diff --cached --quiet || (git commit -m 'Update H&M seen state' && git -c http.extraheader="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)" push "https://github.com/${GITHUB_REPOSITORY}.git" HEAD:state)
