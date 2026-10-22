@@ -1,0 +1,442 @@
+{
+  "locale": "en_in",
+  
+"restockAlerts": true,
+
+  "pageSize": 72,
+  "delayMs": 400,
+  "maxPages": 60,
+  "defaults": {
+    "minDiscount": 60,
+    "maxPrice": null
+  },
+  "sections": [
+    {
+      "id": "men",
+      "enabled": true,
+      "pageId": "/men/sale/view-all",
+      "categoryId": "men_sale",
+      "filters": "sale:true",
+      "listingUrl": "https://www2.hm.com/en_in/men/sale/view-all.html",
+      "maxPrice": null,
+      "subcategories": {},
+      "label": "Men",
+      "firstRunLimit": 20,
+      "categories": {
+        "men_tshirtstanks_poloshirts": {
+          "label": "POLOS",
+          "minDiscount": 60
+        },
+        "men_tshirtstanks_printed": {
+          "label": "MERCH & GRAPHICS",
+          "minDiscount": 60
+        },
+        "men_tshirtstanks": {
+          "label": "T-SHIRTS & TOPS",
+          "minDiscount": 60
+        },
+        "men_shirts": {
+          "label": "SHIRTS",
+          "minDiscount": 60
+        },
+        "men_jeans": {
+          "label": "JEANS",
+          "minDiscount": 60
+        },
+        "men_trousers": {
+          "label": "TROUSERS",
+          "minDiscount": 60
+        },
+        "men_hoodiessweatshirts": {
+          "label": "HOODIES & SWEATSHIRTS",
+          "minDiscount": 60
+        },
+        "men_jacketscoats": {
+          "label": "JACKETS",
+          "minDiscount": 60
+        },
+        "men_sweatpants": {
+          "label": "SWEATPANTS",
+          "minDiscount": 60
+        },
+        "men_blazerssuits": {
+          "label": "BLAZERS & SUITS",
+          "minDiscount": 60
+        },
+        "men_basics": {
+          "label": "BASICS",
+          "minDiscount": 60
+        },
+        "men_linen": {
+          "label": "LINEN CLOTHING",
+          "minDiscount": 60
+        },
+        "men_underwear": {
+          "label": "UNDERWEAR",
+          "minDiscount": 60
+        },
+        "men_cardigansjumpers": {
+          "label": "SWEATERS & CARDIGANS",
+          "minDiscount": 60
+        },
+        "men_socks": {
+          "label": "SOCKS 3 FOR 2",
+          "minDiscount": 60
+        },
+        "sportswear_men_functional": {
+          "label": "FUNCTIONAL ESSENTIALS",
+          "minDiscount": 60
+        },
+        "sportswear_men": {
+          "label": "SPORT",
+          "minDiscount": 60
+        },
+        "men_nightwearloungewear": {
+          "label": "SLEEPWEAR & LOUNGEWEAR",
+          "minDiscount": 60
+        },
+        "men_premium_selection": {
+          "label": "PREMIUM SELECTION",
+          "minDiscount": 60
+        },
+        "men_shorts": {
+          "label": "SHORTS",
+          "minDiscount": 60
+        },
+        "men_swimwear": {
+          "label": "SWIMWEAR",
+          "minDiscount": 60
+        },
+        "men_accessories": {
+          "label": "ACCESSORIES",
+          "minDiscount": 60
+        },
+        "men_shoes": {
+          "label": "SHOES",
+          "minDiscount": 60
+        }
+      }
+    },
+    {
+      "id": "ladies",
+      "enabled": true,
+      "pageId": "/ladies/sale/view-all",
+      "categoryId": "ladies_all",
+      "filters": "sale:true",
+      "listingUrl": "https://www2.hm.com/en_in/women/sale/view-all.html",
+      "maxPrice": null,
+      "subcategories": {},
+      "label": "Women",
+      "firstRunLimit": 20,
+      "categories": {
+        "ladies_tops": {
+          "label": "TOPS",
+          "minDiscount": 60
+        },
+        "ladies_shirtblouses": {
+          "label": "SHIRTS & BLOUSES",
+          "minDiscount": 60
+        },
+        "ladies_shirtsblouses": {
+          "label": "SHIRTS & BLOUSES",
+          "minDiscount": 60
+        },
+        "ladies_dresses": {
+          "label": "DRESSES",
+          "minDiscount": 60
+        },
+        "ladies_jeans": {
+          "label": "JEANS",
+          "minDiscount": 60
+        },
+        "ladies_trousers": {
+          "label": "TROUSERS",
+          "minDiscount": 60
+        },
+        "ladies_shorts": {
+          "label": "SHORTS",
+          "minDiscount": 60
+        },
+        "ladies_skirts": {
+          "label": "SKIRTS",
+          "minDiscount": 60
+        },
+        "ladies_jacketscoats": {
+          "label": "JACKETS & COATS",
+          "minDiscount": 60
+        },
+        "ladies_blazerswaistcoats": {
+          "label": "BLAZERS & WAISTCOATS",
+          "minDiscount": 60
+        },
+        "ladies_cardigansjumpers": {
+          "label": "CARDIGANS & JUMPERS",
+          "minDiscount": 60
+        },
+        "ladies_lingerie": {
+          "label": "LINGERIE",
+          "minDiscount": 60
+        },
+        "ladies_basics": {
+          "label": "BASICS",
+          "minDiscount": 60
+        },
+        "ladies_nightwear": {
+          "label": "NIGHTWEAR",
+          "minDiscount": 60
+        },
+        "ladies_occasion": {
+          "label": "OCCASIONWEAR",
+          "minDiscount": 60
+        },
+        "ladies_premium_selection": {
+          "label": "PREMIUM SELECTION",
+          "minDiscount": 60
+        },
+        "ladies_swimwear": {
+          "label": "SWIMWEAR",
+          "minDiscount": 60
+        },
+        "ladies_jumpsuits": {
+          "label": "JUMPSUITS",
+          "minDiscount": 60
+        },
+        "ladies_maternity": {
+          "label": "MATERNITY",
+          "minDiscount": 60
+        },
+        "ladies_accessories": {
+          "label": "ACCESSORIES",
+          "minDiscount": 60
+        },
+        "ladies_shoes": {
+          "label": "SHOES",
+          "minDiscount": 60
+        },
+        "sportswear_women": {
+          "label": "SPORT",
+          "minDiscount": 60
+        },
+        "home_": {
+          "label": "HOME",
+          "minDiscount": 60
+        }
+      }
+    },
+    {
+      "id": "kids",
+      "enabled": true,
+      "pageId": "/kids/sale/2-8y/view-all",
+      "categoryId": "kids_viewall|kids_newbornbaby_viewall|kids_olderkids_viewall",
+      "filters": "sale:true",
+      "listingUrl": "https://www2.hm.com/en_in/kids/sale/2-8y/view-all.html",
+      "maxPrice": null,
+      "subcategories": {},
+      "label": "Kids",
+      "firstRunLimit": 20,
+      "categories": {
+        "kids_olderkids_clothing_tops_tshirts": {
+          "label": "T-SHIRTS & TOPS",
+          "minDiscount": 60
+        },
+        "kids_olderkids_clothing_tops": {
+          "label": "TOPS",
+          "minDiscount": 60
+        },
+        "kids_olderkids_clothing_trousers": {
+          "label": "TROUSERS",
+          "minDiscount": 60
+        },
+        "kids_clothing_jeans": {
+          "label": "JEANS",
+          "minDiscount": 60
+        },
+        "kids_oldergirls_clothing_jeans": {
+          "label": "JEANS",
+          "minDiscount": 60
+        },
+        "kids_olderboys_clothing_jeans": {
+          "label": "JEANS",
+          "minDiscount": 60
+        },
+        "kids_boys_clothing_trousers": {
+          "label": "TROUSERS",
+          "minDiscount": 60
+        },
+        "kids_girls_clothing_trousers": {
+          "label": "TROUSERS",
+          "minDiscount": 60
+        },
+        "kids_baby_boy_clothing_trousersjeans": {
+          "label": "TROUSERS & JEANS",
+          "minDiscount": 60
+        },
+        "kids_baby_girl_clothing_trousersjeans": {
+          "label": "TROUSERS & JEANS",
+          "minDiscount": 60
+        },
+        "kids_girls_clothing_topstshirts": {
+          "label": "T-SHIRTS & TOPS",
+          "minDiscount": 60
+        },
+        "kids_boys_clothing_tshirtsshirts_tshirts": {
+          "label": "T-SHIRTS",
+          "minDiscount": 60
+        },
+        "kids_boys_clothing_tshirtsshirts_shirts": {
+          "label": "SHIRTS",
+          "minDiscount": 60
+        },
+        "kids_baby_boy_clothing_tshirtsshirts_tshirts": {
+          "label": "T-SHIRTS",
+          "minDiscount": 60
+        },
+        "kids_baby_boy_clothing_tshirtsshirts_shirts": {
+          "label": "SHIRTS",
+          "minDiscount": 60
+        },
+        "kids_baby_girl_clothing_tops": {
+          "label": "TOPS",
+          "minDiscount": 60
+        },
+        "kids_girls_clothing_dresses": {
+          "label": "DRESSES",
+          "minDiscount": 60
+        },
+        "kids_oldergirls_clothing_dresses": {
+          "label": "DRESSES",
+          "minDiscount": 60
+        },
+        "kids_boys_clothing_jumperssweatshirts": {
+          "label": "HOODIES & SWEATSHIRTS",
+          "minDiscount": 60
+        },
+        "kids_girls_clothing_jumperssweatshirts": {
+          "label": "CARDIGANS & JUMPERS",
+          "minDiscount": 60
+        },
+        "kids_olderboys_clothing_blazerssuits": {
+          "label": "BLAZERS & SUITS",
+          "minDiscount": 60
+        },
+        "kids_boys_clothing_blazerssuits": {
+          "label": "BLAZERS & SUITS",
+          "minDiscount": 60
+        },
+        "kids_girls_clothing_shorts": {
+          "label": "SHORTS",
+          "minDiscount": 60
+        },
+        "kids_boys_clothing_shorts": {
+          "label": "SHORTS",
+          "minDiscount": 60
+        },
+        "kids_oldergirls_clothing_shorts": {
+          "label": "SHORTS",
+          "minDiscount": 60
+        },
+        "kids_olderboys_clothing_shorts": {
+          "label": "SHORTS",
+          "minDiscount": 60
+        },
+        "kids_girls_clothing_skirts": {
+          "label": "SKIRTS",
+          "minDiscount": 60
+        },
+        "kids_oldergirls_clothing_skirts": {
+          "label": "SKIRTS",
+          "minDiscount": 60
+        },
+        "kids_girls_clothing_swimwear": {
+          "label": "SWIMWEAR",
+          "minDiscount": 60
+        },
+        "kids_boys_clothing_swimwear": {
+          "label": "SWIMWEAR",
+          "minDiscount": 60
+        },
+        "kids_oldergirls_clothing_swimwear": {
+          "label": "SWIMWEAR",
+          "minDiscount": 60
+        },
+        "kids_olderboys_clothing_swimwear": {
+          "label": "SWIMWEAR",
+          "minDiscount": 60
+        },
+        "kids_girls_clothing_sockstights": {
+          "label": "SOCKS & TIGHTS",
+          "minDiscount": 60
+        },
+        "kids_baby_girl_clothing_sockstights": {
+          "label": "SOCKS & TIGHTS",
+          "minDiscount": 60
+        },
+        "kids_boys_clothing_nightwear": {
+          "label": "NIGHTWEAR",
+          "minDiscount": 60
+        },
+        "kids_girls_clothing_nightwear": {
+          "label": "NIGHTWEAR",
+          "minDiscount": 60
+        },
+        "kids_oldergirls_clothing_nightwear": {
+          "label": "NIGHTWEAR",
+          "minDiscount": 60
+        },
+        "kids_olderboys_clothing_nightwear": {
+          "label": "NIGHTWEAR",
+          "minDiscount": 60
+        },
+        "kids_baby_boy_clothing_nightwear": {
+          "label": "NIGHTWEAR",
+          "minDiscount": 60
+        },
+        "kids_new_born_clothing_nightwear": {
+          "label": "NIGHTWEAR",
+          "minDiscount": 60
+        },
+        "kids_girls_accessories": {
+          "label": "ACCESSORIES",
+          "minDiscount": 60
+        },
+        "kids_boys_accessories": {
+          "label": "ACCESSORIES",
+          "minDiscount": 60
+        },
+        "kids_oldergirls_accessories": {
+          "label": "ACCESSORIES",
+          "minDiscount": 60
+        },
+        "kids_olderboys_accessories": {
+          "label": "ACCESSORIES",
+          "minDiscount": 60
+        },
+        "kids_adorables": {
+          "label": "ADORABLES",
+          "minDiscount": 60
+        },
+        "kids_new_born": {
+          "label": "NEWBORN",
+          "minDiscount": 60
+        },
+        "kids_baby": {
+          "label": "BABY",
+          "minDiscount": 60
+        },
+        "kids_schooluniform": {
+          "label": "SCHOOL UNIFORM",
+          "minDiscount": 60
+        },
+        "kids_olderkids_clothing": {
+          "label": "CLOTHING",
+          "minDiscount": 60
+        }
+      }
+    }
+  ],
+  "rules": [],
+  "categoryDefaults": {
+    "minDiscount": 60
+  }
+}
+
