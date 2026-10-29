@@ -57,6 +57,33 @@ jobs:
           git add seen.json
           git commit -m 'Initialize H&M alert state'
           git -c http.extraheader="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)" push "https://github.com/${GITHUB_REPOSITORY}.git" state
+      - name: Checkout metrics repo
+        id: metrics_checkout
+        uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          repository: ${{ github.repository_owner }}/automation-metrics
+          ref: main
+          path: .metrics
+          token: ${{ secrets.DATA_REPO_PAT }}
+          persist-credentials: true
+      - name: Initialize metrics repo when missing
+        if: ${{ !inputs.dry_run && steps.metrics_checkout.outcome == 'failure' }}
+        continue-on-error: true
+        env:
+          METRICS_TOKEN: ${{ secrets.DATA_REPO_PAT }}
+        run: |
+          set -euo pipefail
+          mkdir -p .metrics
+          rm -rf .metrics/.git
+          cd .metrics
+          git init -b main
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          printf '# Automation metrics\n\nStorage-only repo for runner metrics. No code executes here.\n' > README.md
+          git add -A
+          git commit -m 'Initialize metrics store'
+          git -c http.extraheader="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$METRICS_TOKEN" | base64 -w0)" push "https://github.com/${GITHUB_REPOSITORY_OWNER}/automation-metrics.git" main
       - uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -67,6 +94,8 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           STATE_FILE: .state/seen.json
+          METRICS_DIR: .metrics
+          METRICS_SOURCE: hm-sale-alerts
           FIRST_RUN_LIMIT: ${{ inputs.first_run_limit }}
           SECTIONS: ${{ inputs.sections }}
         run: node runner/src/run.js ${{ inputs.dry_run && '--dry-run' || '' }} ${{ inputs.force_resend && '--force-resend' || '' }}
@@ -80,3 +109,14 @@ jobs:
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add seen.json
           git diff --cached --quiet || (git commit -m 'Update H&M seen state' && git -c http.extraheader="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)" push "https://github.com/${GITHUB_REPOSITORY}.git" HEAD:state)
+      - name: Persist metrics
+        if: ${{ always() && !inputs.dry_run }}
+        continue-on-error: true
+        env:
+          METRICS_TOKEN: ${{ secrets.DATA_REPO_PAT }}
+        run: |
+          cd .metrics
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add -A
+          git diff --cached --quiet || (git commit -m 'Update H&M metrics' && git -c http.extraheader="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$METRICS_TOKEN" | base64 -w0)" push "https://github.com/${GITHUB_REPOSITORY_OWNER}/automation-metrics.git" HEAD:main)
