@@ -57,8 +57,27 @@ jobs:
           git add seen.json
           git commit -m 'Initialize H&M alert state'
           git -c http.extraheader="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)" push "https://github.com/${GITHUB_REPOSITORY}.git" state
+      - name: Probe metrics repo (token, existence, privacy)
+        id: metrics_probe
+        continue-on-error: true
+        env:
+          METRICS_TOKEN: ${{ secrets.DATA_REPO_PAT }}
+        run: |
+          set -euo pipefail
+          repo="${GITHUB_REPOSITORY_OWNER}/automation-metrics"
+          tmp="${RUNNER_TEMP:-/tmp}"
+          disable() { echo "::warning::$1"; echo "- $1" >> "$GITHUB_STEP_SUMMARY"; echo "enabled=false" >> "$GITHUB_OUTPUT"; exit 0; }
+          [ -n "${METRICS_TOKEN}" ] || disable "metrics disabled: DATA_REPO_PAT secret is not set; metrics will not be collected this run"
+          code=$(curl -sS -o "$tmp/mrepo.json" -w '%{http_code}' -H "Authorization: Bearer ${METRICS_TOKEN}" -H 'Accept: application/vnd.github+json' "https://api.github.com/repos/${repo}") || disable "metrics disabled: GitHub API request failed; metrics will not be collected this run"
+          [ "$code" = "200" ] || disable "metrics disabled: metrics repo probe returned HTTP ${code}; metrics will not be collected this run"
+          [ "$(jq -r '.private' "$tmp/mrepo.json")" = "true" ] || disable "metrics REFUSED: ${repo} is not private; refusing to collect or push metrics"
+          ccode=$(curl -sS -o /dev/null -w '%{http_code}' -H "Authorization: Bearer ${METRICS_TOKEN}" -H 'Accept: application/vnd.github+json' "https://api.github.com/repos/${repo}/commits?per_page=1&sha=main") || disable "metrics disabled: GitHub API request failed; metrics will not be collected this run"
+          rm -f "$tmp/mrepo.json"
+          if [ "$ccode" = "409" ]; then echo "empty=true" >> "$GITHUB_OUTPUT"; elif [ "$ccode" = "200" ]; then echo "empty=false" >> "$GITHUB_OUTPUT"; else disable "metrics disabled: metrics repo commits probe returned HTTP ${ccode}; metrics will not be collected this run"; fi
+          echo "enabled=true" >> "$GITHUB_OUTPUT"
       - name: Checkout metrics repo
         id: metrics_checkout
+        if: ${{ steps.metrics_probe.outputs.enabled == 'true' }}
         uses: actions/checkout@v4
         continue-on-error: true
         with:
@@ -67,8 +86,9 @@ jobs:
           path: .metrics
           token: ${{ secrets.DATA_REPO_PAT }}
           persist-credentials: true
-      - name: Initialize metrics repo when missing
-        if: ${{ !inputs.dry_run && steps.metrics_checkout.outcome == 'failure' }}
+      - name: Initialize metrics repo when empty
+        id: metrics_init
+        if: ${{ !inputs.dry_run && steps.metrics_probe.outputs.enabled == 'true' && steps.metrics_probe.outputs.empty == 'true' && steps.metrics_checkout.outcome == 'failure' }}
         continue-on-error: true
         env:
           METRICS_TOKEN: ${{ secrets.DATA_REPO_PAT }}
@@ -80,10 +100,18 @@ jobs:
           git init -b main
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git config http.https://github.com/.extraheader "AUTHORIZATION: basic $(printf 'x-access-token:%s' "${METRICS_TOKEN}" | base64 -w0)"
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY_OWNER}/automation-metrics.git"
           printf '# Automation metrics\n\nStorage-only repo for runner metrics. No code executes here.\n' > README.md
           git add -A
           git commit -m 'Initialize metrics store'
-          git -c http.extraheader="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$METRICS_TOKEN" | base64 -w0)" push "https://github.com/${GITHUB_REPOSITORY_OWNER}/automation-metrics.git" main
+          git push origin main
+      - name: Diagnose metrics coverage loss
+        if: ${{ !inputs.dry_run && steps.metrics_probe.outputs.enabled == 'true' && steps.metrics_checkout.outcome == 'failure' && steps.metrics_init.outcome != 'success' }}
+        continue-on-error: true
+        run: |
+          echo "::warning::metrics coverage lost this run: metrics repo checkout failed and safe initialization was not possible (existing history is never reinitialized); this run's metrics were not persisted"
+          echo "- metrics coverage lost this run: checkout failed, existing history left untouched, run metrics not persisted" >> "$GITHUB_STEP_SUMMARY"
       - uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -110,13 +138,28 @@ jobs:
           git add seen.json
           git diff --cached --quiet || (git commit -m 'Update H&M seen state' && git -c http.extraheader="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)" push "https://github.com/${GITHUB_REPOSITORY}.git" HEAD:state)
       - name: Persist metrics
-        if: ${{ always() && !inputs.dry_run }}
+        if: ${{ always() && !inputs.dry_run && steps.metrics_probe.outputs.enabled == 'true' && (steps.metrics_checkout.outcome == 'success' || steps.metrics_init.outcome == 'success') }}
         continue-on-error: true
         env:
           METRICS_TOKEN: ${{ secrets.DATA_REPO_PAT }}
         run: |
+          set -euo pipefail
           cd .metrics
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add -A
-          git diff --cached --quiet || (git commit -m 'Update H&M metrics' && git -c http.extraheader="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$METRICS_TOKEN" | base64 -w0)" push "https://github.com/${GITHUB_REPOSITORY_OWNER}/automation-metrics.git" HEAD:main)
+          if git diff --cached --quiet; then echo 'no metrics changes'; exit 0; fi
+          git commit -m 'Update H&M metrics'
+          tmp="${RUNNER_TEMP:-/tmp}"
+          code=$(curl -sS -o "$tmp/mrepo.json" -w '%{http_code}' -H "Authorization: Bearer ${METRICS_TOKEN}" -H 'Accept: application/vnd.github+json' "https://api.github.com/repos/${GITHUB_REPOSITORY_OWNER}/automation-metrics" || echo 000)
+          if [ "$code" != "200" ] || [ "$(jq -r '.private' "$tmp/mrepo.json" 2>/dev/null || echo false)" != "true" ]; then
+            echo "::warning::metrics NOT pushed: automation-metrics privacy could not be re-confirmed (HTTP ${code}); this run's metrics are discarded with the runner"
+            echo "- metrics NOT pushed: privacy re-check failed (HTTP ${code}); run metrics discarded" >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+          rm -f "$tmp/mrepo.json"
+          if ! git push origin HEAD:main; then
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi
