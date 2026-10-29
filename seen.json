@@ -38,7 +38,7 @@
       "name": "Gloves",
       "lastSeenDiscount": 67,
       "lastSeenPrice": 499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "lastAlertedDiscount": 67,
       "lastAlertedPrice": 499,
       "lastAlertedAt": "2026-10-04T22:37:30.645Z",
@@ -63,19 +63,20 @@
       "name": "Regular Fit Single-breasted velvet jacket",
       "lastSeenDiscount": 63,
       "lastSeenPrice": 2599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "lastAlertedDiscount": 63,
       "lastAlertedPrice": 2599,
       "lastAlertedAt": "2026-10-02T19:02:23.589Z",
       "sizesInStock": [
-        "34R"
+        "36R",
+        "40R"
       ]
     },
     "men:1251291001": {
       "name": "Regular Fit Sequined shirt",
       "lastSeenDiscount": 63,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "lastAlertedDiscount": 63,
       "lastAlertedPrice": 1499,
       "lastAlertedAt": "2026-10-02T17:38:32.008Z",
@@ -87,7 +88,7 @@
       "name": "Slim Fit Suit trousers",
       "lastSeenDiscount": 63,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "lastAlertedDiscount": 63,
       "lastAlertedPrice": 1499,
       "lastAlertedAt": "2026-10-02T19:02:23.589Z",
@@ -111,7 +112,7 @@
       "name": "Relaxed Fit Linen-blend shorts",
       "lastSeenDiscount": 62,
       "lastSeenPrice": 799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "lastAlertedDiscount": 62,
       "lastAlertedPrice": 799,
       "lastAlertedAt": "2026-10-02T19:02:24.898Z",
@@ -152,7 +153,7 @@
       "name": "Loose Fit Bermuda shorts",
       "lastSeenDiscount": 61,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "lastAlertedDiscount": 61,
       "lastAlertedPrice": 1099,
       "lastAlertedAt": "2026-10-02T19:02:24.898Z",
@@ -171,7 +172,7 @@
       "name": "Loose Fit Bermuda shorts",
       "lastSeenDiscount": 61,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "lastAlertedDiscount": 61,
       "lastAlertedPrice": 1099,
       "lastAlertedAt": "2026-10-02T19:02:24.898Z",
@@ -223,7 +224,7 @@
       "name": "Polarised sunglasses",
       "lastSeenDiscount": 60,
       "lastSeenPrice": 599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "lastAlertedDiscount": 60,
       "lastAlertedPrice": 599,
       "lastAlertedAt": "2026-10-02T19:02:26.202Z",
@@ -235,7 +236,7 @@
       "name": "Sunglasses",
       "lastSeenDiscount": 60,
       "lastSeenPrice": 599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "lastAlertedDiscount": 60,
       "lastAlertedPrice": 599,
       "lastAlertedAt": "2026-10-02T16:46:24.778Z",
@@ -247,7 +248,7 @@
       "name": "Straw bucket hat",
       "lastSeenDiscount": 60,
       "lastSeenPrice": 599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "lastAlertedDiscount": 60,
       "lastAlertedPrice": 599,
       "lastAlertedAt": "2026-10-02T19:02:26.202Z",
@@ -273,7 +274,7 @@
       "name": "Regular Fit Satin suit trousers",
       "lastSeenDiscount": 60,
       "lastSeenPrice": 1199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "lastAlertedDiscount": 60,
       "lastAlertedPrice": 1199,
       "lastAlertedAt": "2026-10-02T16:46:24.778Z",
@@ -330,7 +331,7 @@
       "name": "Loose Fit Bermuda shorts",
       "lastSeenDiscount": 58,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "30R",
         "28R",
@@ -362,7 +363,7 @@
       "name": "Regular Fit Textured-knit T-shirt",
       "lastSeenDiscount": 57,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M"
       ]
@@ -371,7 +372,7 @@
       "name": "Relaxed Fit Scuba shorts",
       "lastSeenDiscount": 57,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -389,7 +390,7 @@
       "name": "Loose Fit Tailored shorts",
       "lastSeenDiscount": 57,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "33R"
       ]
@@ -398,7 +399,7 @@
       "name": "Relaxed Fit Twill bermuda shorts",
       "lastSeenDiscount": 56,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28",
         "29",
@@ -411,7 +412,7 @@
       "name": "Regular Fit Fine-knit polo shirt",
       "lastSeenDiscount": 56,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -421,7 +422,7 @@
       "name": "Relaxed Fit Twill bermuda shorts",
       "lastSeenDiscount": 56,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28",
         "30",
@@ -441,7 +442,7 @@
       "name": "Relaxed Fit Twill bermuda shorts",
       "lastSeenDiscount": 56,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "29",
         "30"
@@ -451,7 +452,7 @@
       "name": "Loose Fit Mesh shorts",
       "lastSeenDiscount": 55,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -462,7 +463,7 @@
       "name": "Loose Fit Mesh shorts",
       "lastSeenDiscount": 55,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -475,7 +476,7 @@
       "name": "Regular Fit Linen-blend polo shirt",
       "lastSeenDiscount": 53,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -504,7 +505,7 @@
       "name": "Relaxed Fit Tapered trousers",
       "lastSeenDiscount": 53,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -513,7 +514,7 @@
       "name": "Oversized Fit Cotton T-shirt",
       "lastSeenDiscount": 53,
       "lastSeenPrice": 699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -522,7 +523,7 @@
       "name": "Regular Fit Hole-knit polo shirt",
       "lastSeenDiscount": 52,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -535,7 +536,7 @@
       "name": "Regular Fit Hole-knit polo shirt",
       "lastSeenDiscount": 52,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -549,7 +550,7 @@
       "name": "Relaxed Fit Cotton Chino shorts",
       "lastSeenDiscount": 52,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -561,7 +562,7 @@
       "name": "Relaxed Fit Textured shorts",
       "lastSeenDiscount": 52,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -575,7 +576,7 @@
       "name": "Relaxed Fit Sweatshorts",
       "lastSeenDiscount": 52,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -586,7 +587,7 @@
       "name": "Slim Fit Polo shirt",
       "lastSeenDiscount": 52,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL",
@@ -597,7 +598,7 @@
       "name": "Regular Fit Cable-knit polo shirt",
       "lastSeenDiscount": 52,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -606,7 +607,7 @@
       "name": "Relaxed Fit Sweatshorts",
       "lastSeenDiscount": 52,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -616,10 +617,9 @@
       "name": "Regular Fit Hole-knit T-shirt",
       "lastSeenDiscount": 50,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
-        "S",
         "M",
         "L",
         "XL",
@@ -630,7 +630,7 @@
       "name": "Regular Fit Lyocell-blend T-shirt",
       "lastSeenDiscount": 50,
       "lastSeenPrice": 699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -644,7 +644,7 @@
       "name": "Slim Fit Vest top",
       "lastSeenDiscount": 50,
       "lastSeenPrice": 699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -658,7 +658,7 @@
       "name": "Regular Fit Lyocell-blend T-shirt",
       "lastSeenDiscount": 50,
       "lastSeenPrice": 699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -670,7 +670,7 @@
       "name": "Regular Fit Crochet-look T-shirt",
       "lastSeenDiscount": 50,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -679,7 +679,7 @@
       "name": "Relaxed Fit Cotton vest top",
       "lastSeenDiscount": 50,
       "lastSeenPrice": 399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -688,22 +688,21 @@
       "name": "Regular Fit Double-breasted velvet jacket",
       "lastSeenDiscount": 50,
       "lastSeenPrice": 3999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "34R",
         "36R",
         "38R",
         "40R",
         "42R",
-        "44R",
-        "46R"
+        "44R"
       ]
     },
     "men:1130226011": {
       "name": "Slim Fit Cotton polo shirt",
       "lastSeenDiscount": 50,
       "lastSeenPrice": 599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -712,7 +711,7 @@
       "name": "Regular Fit Textured T-shirt",
       "lastSeenDiscount": 50,
       "lastSeenPrice": 699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -721,7 +720,7 @@
       "name": "Loose Fit Mesh resort shirt",
       "lastSeenDiscount": 48,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -733,7 +732,7 @@
       "name": "Regular Fit Pointelle-knit polo shirt",
       "lastSeenDiscount": 47,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -747,7 +746,7 @@
       "name": "Relaxed Fit Hole-knit polo shirt",
       "lastSeenDiscount": 47,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -758,7 +757,7 @@
       "name": "Slim Fit Four-way Stretch Chinos",
       "lastSeenDiscount": 47,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "31",
         "36"
@@ -768,9 +767,8 @@
       "name": "Oversized Fit T-shirt",
       "lastSeenDiscount": 47,
       "lastSeenPrice": 799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "L",
         "XL"
       ]
     },
@@ -787,7 +785,7 @@
       "name": "Four-way Stretch Regular Fit Shorts",
       "lastSeenDiscount": 46,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -798,7 +796,7 @@
       "name": "Regular Fit Linen-blend shorts",
       "lastSeenDiscount": 45,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -807,7 +805,7 @@
       "name": "Relaxed Fit Chino shorts",
       "lastSeenDiscount": 45,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28",
         "29",
@@ -821,7 +819,7 @@
       "name": "Regular Fit Linen-blend shorts",
       "lastSeenDiscount": 45,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -832,7 +830,7 @@
       "name": "Slim Fit Lyocell polo shirt",
       "lastSeenDiscount": 45,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M"
@@ -842,7 +840,7 @@
       "name": "Oversized Fit Short-sleeved shirt",
       "lastSeenDiscount": 45,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -851,7 +849,7 @@
       "name": "Relaxed Fit Chino shorts",
       "lastSeenDiscount": 45,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28",
         "31"
@@ -861,7 +859,7 @@
       "name": "Relaxed Fit motif-detail cotton T-shirt",
       "lastSeenDiscount": 45,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -870,7 +868,7 @@
       "name": "Regular Fit Embroidered resort shirt",
       "lastSeenDiscount": 44,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -883,7 +881,7 @@
       "name": "Regular Fit Embroidered resort shirt",
       "lastSeenDiscount": 44,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL",
         "XXL"
@@ -893,7 +891,7 @@
       "name": "Regular Fit Textured resort shirt",
       "lastSeenDiscount": 44,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -902,7 +900,7 @@
       "name": "Regular Fit Jacquard-weave resort shirt",
       "lastSeenDiscount": 44,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -911,7 +909,7 @@
       "name": "Regular Fit Pointelle-knit polo shirt",
       "lastSeenDiscount": 43,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL",
@@ -922,7 +920,7 @@
       "name": "Oversized Fit Printed T-shirt",
       "lastSeenDiscount": 43,
       "lastSeenPrice": 799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L",
@@ -934,7 +932,7 @@
       "name": "Regular Fit Short-sleeved shirt",
       "lastSeenDiscount": 43,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -943,7 +941,7 @@
       "name": "Relaxed Fit Sweatshirt shorts",
       "lastSeenDiscount": 43,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "L"
@@ -953,7 +951,7 @@
       "name": "Regular Fit Sweatshorts",
       "lastSeenDiscount": 43,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -964,7 +962,7 @@
       "name": "Relaxed Fit Shorts",
       "lastSeenDiscount": 43,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -985,7 +983,7 @@
       "name": "Regular Fit Waffled T-shirt",
       "lastSeenDiscount": 43,
       "lastSeenPrice": 799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -1003,7 +1001,7 @@
       "name": "Slim Fit Four-way Stretch Chinos",
       "lastSeenDiscount": 42,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "31"
       ]
@@ -1012,7 +1010,7 @@
       "name": "Slim Fit Zip-top polo shirt",
       "lastSeenDiscount": 41,
       "lastSeenPrice": 1529,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -1021,7 +1019,7 @@
       "name": "Oversized Fit Cotton T-shirt",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -1033,7 +1031,7 @@
       "name": "Loose Fit T-shirt",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -1045,7 +1043,7 @@
       "name": "Relaxed Fit Textured shorts",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -1067,7 +1065,7 @@
       "name": "Relaxed Fit Printed cotton T-shirt",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L",
@@ -1088,7 +1086,7 @@
       "name": "Relaxed Fit Cotton shorts",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -1100,7 +1098,7 @@
       "name": "Regular Fit T-shirt",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -1112,7 +1110,7 @@
       "name": "Cooling Regular Fit T-shirt",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -1121,7 +1119,7 @@
       "name": "Relaxed Fit Interlock shorts",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -1131,7 +1129,7 @@
       "name": "Loose Fit Shorts",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -1142,7 +1140,7 @@
       "name": "Regular Fit Sweatshorts",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -1152,7 +1150,7 @@
       "name": "Oversized Fit T-shirt",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -1161,7 +1159,7 @@
       "name": "Loose Fit Printed T-shirt",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -1170,7 +1168,7 @@
       "name": "Relaxed Fit Cotton shorts",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -1179,7 +1177,7 @@
       "name": "Relaxed Fit Interlock shorts",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -1189,7 +1187,7 @@
       "name": "Loose Fit Shorts",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -1200,7 +1198,7 @@
       "name": "Regular Fit T-shirt",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL",
         "XXL"
@@ -1210,7 +1208,7 @@
       "name": "Loose Fit Hole-knit polo shirt",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL"
@@ -1220,7 +1218,7 @@
       "name": "Relaxed Fit Padded nylon overshirt",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 2399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -1229,10 +1227,9 @@
       "name": "Regular Fit Embroidered-motif T-shirt",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "S",
-        "L"
+        "S"
       ]
     },
     "men:0972640168": {
@@ -1248,7 +1245,7 @@
       "name": "Loose Fit T-shirt",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M"
@@ -1258,7 +1255,7 @@
       "name": "Loose Fit Bermuda shorts",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28R",
         "36R"
@@ -1277,7 +1274,7 @@
       "name": "Slim Fit Ribbed vest top",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -1286,7 +1283,7 @@
       "name": "Slim Fit Ribbed vest top",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -1295,7 +1292,7 @@
       "name": "Regular Fit Merino wool polo shirt",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 2399,
-      "lastSeenAt": "2026-10-19T12:30:42.513Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M"
       ]
@@ -1304,7 +1301,7 @@
       "name": "COOLMAX® Regular Fit T-shirt",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -1322,7 +1319,7 @@
       "name": "Regular Fit Interlock shorts",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -1340,7 +1337,7 @@
       "name": "Loose Fit Printed football shirt",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL"
@@ -1350,7 +1347,7 @@
       "name": "Short baggy denim shorts",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28",
         "29",
@@ -1363,7 +1360,7 @@
       "name": "Loose Fit Printed football shirt",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -1375,7 +1372,7 @@
       "name": "Relaxed Fit Interlock shorts",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -1388,7 +1385,7 @@
       "name": "Regular Fit Sweatshorts",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -1401,7 +1398,7 @@
       "name": "Regular Fit Utility shirt",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -1413,7 +1410,7 @@
       "name": "Relaxed Fit Scuba shorts",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -1425,7 +1422,7 @@
       "name": "Relaxed Fit Interlock shorts",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -1438,7 +1435,7 @@
       "name": "Relaxed Fit Interlock shorts",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -1450,7 +1447,7 @@
       "name": "Slim Fit Polo shirt",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL",
         "XXL"
@@ -1460,7 +1457,7 @@
       "name": "Relaxed Fit Scuba shorts",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -1470,7 +1467,7 @@
       "name": "Relaxed Fit Scuba shorts",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -1480,8 +1477,9 @@
       "name": "Loose Fit Seersucker resort shirt",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
+        "L",
         "XL",
         "XXL"
       ]
@@ -1490,7 +1488,7 @@
       "name": "Regular Fit Resort shirt",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -1499,7 +1497,7 @@
       "name": "Relaxed Fit Football shorts",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -1509,7 +1507,7 @@
       "name": "Regular Fit Hole-knit T-shirt",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -1527,7 +1525,7 @@
       "name": "Regular Fit Cable-knit polo shirt",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -1545,7 +1543,7 @@
       "name": "Relaxed Fit Cargo shorts",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "36"
       ]
@@ -1563,7 +1561,7 @@
       "name": "Loose Fit Shirt",
       "lastSeenDiscount": 38,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -1572,7 +1570,7 @@
       "name": "Regular Fit Linen-blend polo shirt",
       "lastSeenDiscount": 37,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -1585,11 +1583,10 @@
       "name": "Regular Fit Embroidered resort shirt",
       "lastSeenDiscount": 37,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
-        "L",
         "XL"
       ]
     },
@@ -1597,7 +1594,7 @@
       "name": "Relaxed Fit Hole-knit polo shirt",
       "lastSeenDiscount": 37,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -1642,7 +1639,7 @@
       "name": "Regular Fit Textured T-shirt",
       "lastSeenDiscount": 36,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "XL",
@@ -1653,7 +1650,7 @@
       "name": "COOLMAX® Regular Fit T-shirt",
       "lastSeenDiscount": 36,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -1663,7 +1660,7 @@
       "name": "Regular Fit Pointelle-knit polo shirt",
       "lastSeenDiscount": 36,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -1672,7 +1669,7 @@
       "name": "Regular Fit Sports joggers",
       "lastSeenDiscount": 36,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -1681,7 +1678,7 @@
       "name": "COOLMAX® Regular Fit T-shirt",
       "lastSeenDiscount": 36,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -1699,7 +1696,7 @@
       "name": "Straight Regular Jeans",
       "lastSeenDiscount": 36,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "40/30"
       ]
@@ -1717,7 +1714,7 @@
       "name": "Straw tote bag",
       "lastSeenDiscount": 35,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "NOSIZE"
       ]
@@ -1726,7 +1723,7 @@
       "name": "Regular Fit Textured resort shirt",
       "lastSeenDiscount": 35,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -1738,7 +1735,7 @@
       "name": "Regular Fit Cotton resort shirt",
       "lastSeenDiscount": 35,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -1750,7 +1747,7 @@
       "name": "Slim Fit Knitted T-shirt",
       "lastSeenDiscount": 35,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "M",
@@ -1762,7 +1759,7 @@
       "name": "Regular Fit Cotton resort shirt",
       "lastSeenDiscount": 35,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -1774,7 +1771,7 @@
       "name": "Relaxed Fit Coated shorts",
       "lastSeenDiscount": 35,
       "lastSeenPrice": 2599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL"
@@ -1784,16 +1781,16 @@
       "name": "Oversized Fit Printed sweatshirt",
       "lastSeenDiscount": 35,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "L"
+        "XL"
       ]
     },
     "men:1290470002": {
       "name": "Regular Fit Resort shirt",
       "lastSeenDiscount": 35,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL",
         "XXL"
@@ -1803,7 +1800,7 @@
       "name": "Regular Fit Cotton resort shirt",
       "lastSeenDiscount": 35,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -1839,7 +1836,7 @@
       "name": "Regular Fit Short-sleeved linen-blend shirt",
       "lastSeenDiscount": 35,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -1854,7 +1851,7 @@
       "name": "Regular Fit Sports shorts with DryMove™",
       "lastSeenDiscount": 35,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -1863,7 +1860,7 @@
       "name": "Loose Fit Short-sleeved linen-blend shirt",
       "lastSeenDiscount": 35,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -1872,16 +1869,17 @@
       "name": "Relaxed Fit Linen-blend shorts",
       "lastSeenDiscount": 35,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-26T08:30:39.741Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "XS"
+        "XS",
+        "M"
       ]
     },
     "men:1345545003": {
       "name": "Regular Fit Resort shirt",
       "lastSeenDiscount": 35,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -1899,7 +1897,7 @@
       "name": "Motif-detail trucker cap",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "ONESIZE"
       ]
@@ -1908,7 +1906,7 @@
       "name": "Cotton twill cap",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "ONESIZE"
       ]
@@ -1917,7 +1915,7 @@
       "name": "Sunglasses",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "NOSIZE"
       ]
@@ -1926,7 +1924,7 @@
       "name": "Straw bucket hat",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M/58",
         "L/60"
@@ -1936,7 +1934,7 @@
       "name": "Regular Fit Resort shirt",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -1946,7 +1944,7 @@
       "name": "COOLMAX®  Relaxed Fit T-shirt",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "L",
@@ -1958,7 +1956,7 @@
       "name": "Straw bucket hat",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M/58",
         "L/60"
@@ -1968,7 +1966,7 @@
       "name": "Loose Fit T-shirt",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -1979,7 +1977,7 @@
       "name": "Relaxed Fit  Hole-knit shirt",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 1999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L",
@@ -1990,7 +1988,7 @@
       "name": "Loose Fit Printed T-shirt",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL"
@@ -2000,7 +1998,7 @@
       "name": "Slim Fit Single-breasted jacket",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 4669,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "32R",
         "34R",
@@ -2020,7 +2018,7 @@
       "name": "Long cotton shirt",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 1199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -2029,7 +2027,7 @@
       "name": "Loose Fit Jersey zip-through hoodie",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 1999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -2065,7 +2063,7 @@
       "name": "Loose Fit Shirt",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -2092,7 +2090,7 @@
       "name": "Patterned resort shirt",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -2110,7 +2108,7 @@
       "name": "Slim Fit Knitted T-shirt",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -2119,7 +2117,7 @@
       "name": "Slim Fit Knitted T-shirt",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -2128,7 +2126,7 @@
       "name": "Leather belt",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -2146,7 +2144,7 @@
       "name": "Relaxed Fit Pointelle-knit resort shirt",
       "lastSeenDiscount": 32,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -2159,7 +2157,7 @@
       "name": "Loose Fit Bermuda shorts",
       "lastSeenDiscount": 32,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "29",
         "30",
@@ -2174,7 +2172,7 @@
       "name": "Loose Fit Cotton cargo shorts",
       "lastSeenDiscount": 32,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "29",
         "30",
@@ -2187,7 +2185,7 @@
       "name": "Relaxed Fit Linen-blend shirt",
       "lastSeenDiscount": 32,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -2199,7 +2197,7 @@
       "name": "Regular Fit Tailored joggers",
       "lastSeenDiscount": 32,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -2208,7 +2206,7 @@
       "name": "Easy-care Regular Fit Linen-blend overshirt",
       "lastSeenDiscount": 32,
       "lastSeenPrice": 3399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M"
       ]
@@ -2226,7 +2224,7 @@
       "name": "Four-way Stretch Regular Fit Shorts",
       "lastSeenDiscount": 32,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -2235,7 +2233,7 @@
       "name": "Easy-care Relaxed Fit Linen-blend shorts",
       "lastSeenDiscount": 32,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -2244,7 +2242,7 @@
       "name": "Regular Fit Cable-knit short-sleeved shirt",
       "lastSeenDiscount": 32,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -2253,7 +2251,7 @@
       "name": "Four-way Stretch Loose Fit Chino shorts",
       "lastSeenDiscount": 32,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "30",
         "31",
@@ -2265,7 +2263,7 @@
       "name": "Rib-knit balaclava",
       "lastSeenDiscount": 31,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "ONESIZE"
       ]
@@ -2274,7 +2272,7 @@
       "name": "Embroidery-motif cotton cap",
       "lastSeenDiscount": 31,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "ONESIZE"
       ]
@@ -2283,7 +2281,7 @@
       "name": "Regular Fit Embroidered resort shirt",
       "lastSeenDiscount": 31,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -2296,7 +2294,7 @@
       "name": "Slim Fit Polo shirt",
       "lastSeenDiscount": 31,
       "lastSeenPrice": 2499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -2310,7 +2308,7 @@
       "name": "Regular Fit Lyocell-blend polo shirt",
       "lastSeenDiscount": 31,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -2328,7 +2326,7 @@
       "name": "Oversized Fit Boxy zip-through hoodie",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL",
@@ -2339,7 +2337,7 @@
       "name": "Regular Fit Resort shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -2352,7 +2350,7 @@
       "name": "Relaxed Fit Cotton resort shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -2365,7 +2363,7 @@
       "name": "Slim Fit Knitted vest top",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -2378,7 +2376,7 @@
       "name": "Loose Fit Shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -2392,7 +2390,7 @@
       "name": "Relaxed Fit Cotton Chino shorts",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -2404,7 +2402,7 @@
       "name": "Relaxed Fit Print-motif sweatpants",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -2418,7 +2416,7 @@
       "name": "Regular Fit shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -2432,7 +2430,7 @@
       "name": "Relaxed Fit Textured resort shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -2444,7 +2442,7 @@
       "name": "Relaxed Fit Cotton shorts",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -2458,7 +2456,7 @@
       "name": "Regular Fit Track shorts",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -2471,7 +2469,7 @@
       "name": "Tie",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "ONESIZE"
       ]
@@ -2480,7 +2478,7 @@
       "name": "Regular Fit Resort shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -2491,7 +2489,7 @@
       "name": "Relaxed denim shorts",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "29",
         "30",
@@ -2504,7 +2502,7 @@
       "name": "Relaxed Fit Textured resort shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L",
@@ -2515,8 +2513,9 @@
       "name": "Relaxed Fit Resort shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
+        "L",
         "XL",
         "XXL"
       ]
@@ -2525,7 +2524,7 @@
       "name": "Regular Fit Jacquard resort shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -2536,7 +2535,7 @@
       "name": "Relaxed denim shorts",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "30",
         "31",
@@ -2549,7 +2548,7 @@
       "name": "Regular Fit Hole-knit shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L",
@@ -2561,7 +2560,7 @@
       "name": "Regular Fit Hole-knit polo shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -2573,7 +2572,7 @@
       "name": "Relaxed Fit Football shorts",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -2585,7 +2584,7 @@
       "name": "Relaxed Fit Textured resort shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "M",
@@ -2597,7 +2596,7 @@
       "name": "Regular Fit Resort shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L"
@@ -2607,7 +2606,7 @@
       "name": "Regular Fit Textured-knit shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -2620,7 +2619,7 @@
       "name": "Relaxed denim shorts",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "30",
         "33"
@@ -2630,7 +2629,7 @@
       "name": "Short baggy denim shorts",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28",
         "29",
@@ -2642,7 +2641,7 @@
       "name": "Regular Fit Textured-knit shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -2651,7 +2650,7 @@
       "name": "Regular Fit Hole-knit shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -2664,7 +2663,7 @@
       "name": "Relaxed Fit Boxy hole-knit T-shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L",
@@ -2675,7 +2674,7 @@
       "name": "Slim Fit Cotton chinos",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28",
         "36"
@@ -2685,7 +2684,7 @@
       "name": "Regular Fit Linen-blend polo shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "XL"
@@ -2704,7 +2703,7 @@
       "name": "Regular Fit Resort shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "XXL"
@@ -2714,7 +2713,7 @@
       "name": "2-pack Regular Fit Shorts",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -2733,7 +2732,7 @@
       "name": "Regular Fit Textured-knit resort shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -2743,7 +2742,7 @@
       "name": "Relaxed Fit Resort shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL"
@@ -2753,7 +2752,7 @@
       "name": "Regular Fit Linen-blend resort shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "XL"
@@ -2763,7 +2762,7 @@
       "name": "Regular Fit Textured-knit shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -2772,7 +2771,7 @@
       "name": "Slim Fit Cotton chinos",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "36"
       ]
@@ -2790,7 +2789,7 @@
       "name": "Slim Fit Cargo trousers",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -2808,7 +2807,7 @@
       "name": "Patterned swim shorts",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -2817,7 +2816,7 @@
       "name": "Slim Fit Cargo trousers",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -2844,9 +2843,8 @@
       "name": "Relaxed Fit Track pants",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "XL",
         "XXL"
       ]
     },
@@ -2863,7 +2861,7 @@
       "name": "Nylon track jacket",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 3499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -2872,7 +2870,7 @@
       "name": "Regular Fit Linen-blend polo shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -2881,7 +2879,7 @@
       "name": "Relaxed Fit Resort shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "XL"
@@ -2900,7 +2898,7 @@
       "name": "Regular Fit Short-sleeved linen-blend shirt",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -2918,7 +2916,7 @@
       "name": "Relaxed Fit Cargo trousers",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L"
@@ -2937,7 +2935,7 @@
       "name": "Relaxed Fit Barrel chinos",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "30"
       ]
@@ -2946,7 +2944,7 @@
       "name": "Relaxed Fit Barrel chinos",
       "lastSeenDiscount": 30,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "29"
       ]
@@ -2982,8 +2980,10 @@
       "name": "Loose Fit Boxy-style T-shirt",
       "lastSeenDiscount": 29,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
+        "XS",
+        "S",
         "M",
         "L",
         "XL",
@@ -2994,7 +2994,7 @@
       "name": "Regular Fit Polo shirt",
       "lastSeenDiscount": 29,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -3008,7 +3008,7 @@
       "name": "Regular Fit V-neck polo shirt",
       "lastSeenDiscount": 29,
       "lastSeenPrice": 1999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -3020,7 +3020,7 @@
       "name": "Regular Fit Linen-blend resort shirt",
       "lastSeenDiscount": 29,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL",
@@ -3031,7 +3031,7 @@
       "name": "Water-repellent Regular Fit Jacket",
       "lastSeenDiscount": 29,
       "lastSeenPrice": 4249,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "34R",
         "36R",
@@ -3043,7 +3043,7 @@
       "name": "Regular Fit Rib-knit resort shirt",
       "lastSeenDiscount": 29,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "XXL"
@@ -3053,7 +3053,7 @@
       "name": "Loose Fit Sweatshirt",
       "lastSeenDiscount": 29,
       "lastSeenPrice": 1999,
-      "lastSeenAt": "2026-10-28T16:30:39.180Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M"
       ]
@@ -3071,7 +3071,7 @@
       "name": "Slim Fit Jacket",
       "lastSeenDiscount": 29,
       "lastSeenPrice": 4249,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "32R"
       ]
@@ -3080,7 +3080,7 @@
       "name": "Regular Fit Linen-blend resort shirt",
       "lastSeenDiscount": 28,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -3092,7 +3092,7 @@
       "name": "Slim Fit Polo shirt",
       "lastSeenDiscount": 28,
       "lastSeenPrice": 2599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -3106,7 +3106,7 @@
       "name": "Regular Fit Textured resort shirt",
       "lastSeenDiscount": 28,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "XXL"
@@ -3116,16 +3116,17 @@
       "name": "Regular Fit Polo shirt",
       "lastSeenDiscount": 28,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "XS"
+        "XS",
+        "S"
       ]
     },
     "men:1277588001": {
       "name": "Regular Fit Linen-blend resort shirt",
       "lastSeenDiscount": 28,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -3136,7 +3137,7 @@
       "name": "Relaxed Fit Printed track pants",
       "lastSeenDiscount": 28,
       "lastSeenPrice": 2599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "XL",
@@ -3147,7 +3148,7 @@
       "name": "Regular Fit Textured resort shirt",
       "lastSeenDiscount": 28,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -3156,7 +3157,7 @@
       "name": "Regular Fit Linen-blend resort shirt",
       "lastSeenDiscount": 28,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL",
         "XXL"
@@ -3166,7 +3167,7 @@
       "name": "Regular Fit Crinkled resort shirt",
       "lastSeenDiscount": 28,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -3175,9 +3176,8 @@
       "name": "Oversized Fit T-shirt",
       "lastSeenDiscount": 28,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "M",
         "XL"
       ]
     },
@@ -3185,9 +3185,10 @@
       "name": "3-pack Regular Fit Polo shirts",
       "lastSeenDiscount": 28,
       "lastSeenPrice": 2599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "XS"
+        "XS",
+        "L"
       ]
     },
     "men:1332136003": {
@@ -3212,7 +3213,7 @@
       "name": "Regular Fit Rib-knit T-shirt",
       "lastSeenDiscount": 28,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -3230,7 +3231,7 @@
       "name": "Oversized Fit Cotton T-shirt",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -3244,9 +3245,11 @@
       "name": "Oversized Fit Zip-through hoodie",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
+        "S",
         "M",
+        "L",
         "XL",
         "XXL"
       ]
@@ -3255,7 +3258,7 @@
       "name": "Loose Fit Boxy zip-through hoodie",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL",
@@ -3275,7 +3278,7 @@
       "name": "Relaxed Fit Textured shorts",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -3287,7 +3290,7 @@
       "name": "Regular Fit Cotton T-shirt",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L",
@@ -3299,7 +3302,7 @@
       "name": "Oversized Fit Cotton T-shirt",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -3312,7 +3315,7 @@
       "name": "Relaxed Fit Cotton shorts",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -3326,7 +3329,7 @@
       "name": "Relaxed Fit Cotton trousers",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -3340,10 +3343,11 @@
       "name": "Relaxed Fit Cotton trousers",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
+        "M",
         "L",
         "XL",
         "XXL"
@@ -3353,7 +3357,7 @@
       "name": "Patterned tie",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "ONESIZE"
       ]
@@ -3362,7 +3366,7 @@
       "name": "Relaxed Fit Linen-blend shorts",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -3376,7 +3380,7 @@
       "name": "Bag charm",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "ONESIZE"
       ]
@@ -3385,7 +3389,7 @@
       "name": "Regular Fit Textured-knit resort shirt",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -3398,8 +3402,9 @@
       "name": "Loose Fit Printed T-shirt",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
+        "M",
         "L",
         "XL"
       ]
@@ -3408,7 +3413,7 @@
       "name": "Regular Fit Resort shirt",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -3419,7 +3424,7 @@
       "name": "Relaxed Fit Cotton shorts",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -3430,7 +3435,7 @@
       "name": "COOLMAX®  Relaxed Fit T-shirt",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -3442,7 +3447,7 @@
       "name": "Loose Fit Textured-knit T-shirt",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "XL"
@@ -3452,7 +3457,7 @@
       "name": "Regular Fit Carpenter trousers",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "32",
         "33",
@@ -3464,7 +3469,7 @@
       "name": "Slim Fit Tailored trousers",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28",
         "30"
@@ -3474,7 +3479,7 @@
       "name": "Regular Fit Suit waistcoat",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "36R",
         "38R",
@@ -3485,7 +3490,7 @@
       "name": "Loose Fit Printed T-shirt",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -3494,7 +3499,7 @@
       "name": "Loose Fit Boxy-style t-shirt",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XXL"
@@ -3504,7 +3509,7 @@
       "name": "Slim Fit Henley top",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL",
         "XXL"
@@ -3514,7 +3519,7 @@
       "name": "Patterned swim shorts",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -3523,16 +3528,16 @@
       "name": "Relaxed Fit Resort shirt",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-27T12:30:37.509Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "M"
+        "L"
       ]
     },
     "men:1012056035": {
       "name": "Relaxed Fit Sweatpants",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -3541,7 +3546,7 @@
       "name": "Relaxed Fit Interlock shorts",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -3550,7 +3555,7 @@
       "name": "Slim Fit Tailored trousers",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28",
         "29",
@@ -3570,7 +3575,7 @@
       "name": "Loose Fit T-shirt",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -3579,7 +3584,7 @@
       "name": "Relaxed Fit Shirt",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -3588,7 +3593,7 @@
       "name": "Relaxed Fit Cotton shirt",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XXL"
@@ -3616,7 +3621,7 @@
       "name": "Relaxed Fit Cotton shorts",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -3634,7 +3639,7 @@
       "name": "Regular Fit Polo shirt",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -3697,7 +3702,7 @@
       "name": "Relaxed Fit Cargo trousers",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -3706,7 +3711,7 @@
       "name": "Regular Fit Rib-knit T-shirt",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -3724,7 +3729,7 @@
       "name": "Regular Fit Cotton chino shorts",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "32"
       ]
@@ -3733,7 +3738,7 @@
       "name": "5-pack Slim Fit T-shirts",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XXL"
@@ -3743,7 +3748,7 @@
       "name": "Slim Fit Wool-blend tuxedo jacket",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 5949,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "32R",
         "34R",
@@ -3754,7 +3759,7 @@
       "name": "Relaxed Fit Linen-blend shorts",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -3765,7 +3770,7 @@
       "name": "Oversized Fit Carpenter shorts",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28",
         "29",
@@ -3780,7 +3785,7 @@
       "name": "Regular Fit Knitted shirt",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -3791,7 +3796,7 @@
       "name": "Relaxed Fit Cotton Chino shorts",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -3803,7 +3808,7 @@
       "name": "Regular Fit Seersucker shirt",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -3816,7 +3821,7 @@
       "name": "Relaxed Fit Printed resort shirt",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL",
@@ -3827,7 +3832,7 @@
       "name": "Oversized Fit Boxy t-shirt",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L",
@@ -3839,7 +3844,7 @@
       "name": "Relaxed Fit Linen-blend shorts",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "XL"
@@ -3849,7 +3854,7 @@
       "name": "Loose Fit Tailored trousers",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 2969,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "32R",
         "33R"
@@ -3859,9 +3864,8 @@
       "name": "Loose Fit Polo shirt",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "S",
         "M",
         "XL"
       ]
@@ -3870,7 +3874,7 @@
       "name": "Knee-length shorts",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -3879,7 +3883,7 @@
       "name": "Relaxed Fit Textured resort shirt",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL",
@@ -3890,7 +3894,7 @@
       "name": "Relaxed Fit Scuba shorts",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -3899,7 +3903,7 @@
       "name": "Slim Fit Cargo trousers",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -3908,7 +3912,7 @@
       "name": "Regular Fit Cable-knit polo shirt",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL",
@@ -3919,7 +3923,7 @@
       "name": "Regular Fit Rib-knit shirt",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL",
         "XXL"
@@ -3929,7 +3933,7 @@
       "name": "Relaxed Fit Twill overshirt",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -3947,7 +3951,7 @@
       "name": "Regular Fit Rib-knit shirt",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -3965,7 +3969,7 @@
       "name": "Baggy Denim shorts",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "36"
       ]
@@ -3974,17 +3978,18 @@
       "name": "Oversized Fit Sweatshirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
-        "S"
+        "S",
+        "L"
       ]
     },
     "men:0570002195": {
       "name": "Slim Fit T-shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -3997,10 +4002,9 @@
       "name": "Regular Fit Cargo shorts",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
-        "M",
         "L",
         "XL"
       ]
@@ -4009,7 +4013,7 @@
       "name": "Regular Fit Jacquard resort shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -4020,7 +4024,7 @@
       "name": "Relaxed Fit Denim shorts",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28",
         "29",
@@ -4034,7 +4038,7 @@
       "name": "Canvas trainers",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "6",
         "6.5",
@@ -4048,7 +4052,7 @@
       "name": "Relaxed Fit Sweatpants",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -4062,7 +4066,7 @@
       "name": "Regular Fit Polo shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -4073,21 +4077,20 @@
       "name": "Canvas trainers",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "6",
         "6.5",
         "7.5",
         "8",
-        "9",
-        "9.5"
+        "9"
       ]
     },
     "men:1337440002": {
       "name": "Cotton twill overshirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L",
@@ -4099,7 +4102,7 @@
       "name": "Relaxed Fit Chino shorts",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28",
         "29",
@@ -4113,7 +4116,7 @@
       "name": "Relaxed Fit textured trousers",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -4123,7 +4126,7 @@
       "name": "Canvas trainers",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "6",
         "6.5",
@@ -4136,7 +4139,7 @@
       "name": "Loose Fit Cotton cargo shorts",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "29",
         "30",
@@ -4150,7 +4153,7 @@
       "name": "Loose Fit Bermuda shorts",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "29",
         "30",
@@ -4164,7 +4167,7 @@
       "name": "Relaxed Fit Cotton flannel shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL",
@@ -4175,7 +4178,7 @@
       "name": "Relaxed Fit Linen-blend shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -4187,7 +4190,7 @@
       "name": "Regular Fit Knitted T-shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -4198,7 +4201,7 @@
       "name": "Relaxed Fit Muslin shorts",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -4209,7 +4212,7 @@
       "name": "Relaxed Fit Muslin shorts",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -4220,7 +4223,7 @@
       "name": "Relaxed Fit Pointelle-knit resort shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -4233,7 +4236,7 @@
       "name": "Regular Fit Tailored linen-blend trousers",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "30R",
         "32R",
@@ -4246,7 +4249,7 @@
       "name": "Oversized Fit Boxy-style t-shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L",
@@ -4257,7 +4260,7 @@
       "name": "Slim Fit 5-pocket trousers",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28",
         "29",
@@ -4269,7 +4272,7 @@
       "name": "Regular Fit Linen-blend trousers",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -4281,7 +4284,7 @@
       "name": "Slim Fit Knitted T-shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XXL"
@@ -4291,7 +4294,7 @@
       "name": "Regular Fit Tailored joggers",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -4303,7 +4306,7 @@
       "name": "Slim Fit Textured jersey polo shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -4314,7 +4317,7 @@
       "name": "Four-way Stretch Loose Fit Chino shorts",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "30",
         "31",
@@ -4326,7 +4329,7 @@
       "name": "Relaxed Fit Shorts",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -4337,7 +4340,7 @@
       "name": "Loose Fit Track shorts",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -4350,7 +4353,7 @@
       "name": "Loose Fit Cotton cargo shorts",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "29",
         "30",
@@ -4362,7 +4365,7 @@
       "name": "Relaxed Fit Cotton-blend shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL"
@@ -4372,7 +4375,7 @@
       "name": "Regular Fit Mesh shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -4384,7 +4387,7 @@
       "name": "Relaxed Fit Linen-blend resort shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL",
@@ -4395,7 +4398,7 @@
       "name": "Relaxed Fit Denim shorts",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "30",
         "31"
@@ -4405,7 +4408,7 @@
       "name": "Regular Fit Cargo shorts",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -4414,7 +4417,7 @@
       "name": "Oversized Fit T-shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L",
@@ -4425,7 +4428,7 @@
       "name": "Relaxed Fit Chino shorts",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28",
         "29",
@@ -4438,7 +4441,7 @@
       "name": "Easy-care Linen-blend Regular Fit shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "L"
@@ -4448,7 +4451,7 @@
       "name": "Relaxed Fit Cotton flannel shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -4457,7 +4460,7 @@
       "name": "Regular Fit Knitted polo shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L",
@@ -4468,7 +4471,7 @@
       "name": "Textured jersey shorts",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -4479,7 +4482,7 @@
       "name": "Loose Fit Track shorts",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -4490,7 +4493,7 @@
       "name": "Relaxed Fit Denim shorts",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28",
         "29",
@@ -4501,7 +4504,7 @@
       "name": "Regular Fit Linen-blend resort shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "XXL"
@@ -4520,7 +4523,7 @@
       "name": "Regular Fit Linen-blend resort shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "XL"
@@ -4530,7 +4533,7 @@
       "name": "Regular Fit Linen-blend resort shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "XL"
@@ -4540,7 +4543,7 @@
       "name": "Slim Fit Textured jersey polo shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "XXL"
@@ -4550,9 +4553,8 @@
       "name": "Regular Fit Polo shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "M",
         "L"
       ]
     },
@@ -4569,7 +4571,7 @@
       "name": "Slim Fit Knitted T-shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XXL"
@@ -4579,7 +4581,7 @@
       "name": "Regular Fit Linen-blend resort shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL",
         "XXL"
@@ -4589,7 +4591,7 @@
       "name": "Straight Regular Jeans",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "34/30",
         "36/30"
@@ -4599,7 +4601,7 @@
       "name": "Slim Fit Ribbed vest top",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -4608,7 +4610,7 @@
       "name": "Slim Fit Suit trousers",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28R"
       ]
@@ -4617,7 +4619,7 @@
       "name": "Regular Fit Linen-blend jacket",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 5999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "32R",
         "34R"
@@ -4627,9 +4629,10 @@
       "name": "Slim Fit Tailored trousers",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "28"
+        "28",
+        "29"
       ]
     },
     "men:1227155001": {
@@ -4645,7 +4648,7 @@
       "name": "Regular Fit Polo shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -4654,7 +4657,7 @@
       "name": "Regular Fit Polo shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -4663,7 +4666,7 @@
       "name": "Regular Fit Tailored joggers",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -4690,7 +4693,7 @@
       "name": "Regular Fit Cotton polo shirt",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL",
         "XXL"
@@ -4700,7 +4703,7 @@
       "name": "Relaxed Fit Cotton and lyocell tailored trousers",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "34",
         "36"
@@ -4719,7 +4722,7 @@
       "name": "Slim Fit 5-pocket trousers",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28"
       ]
@@ -4737,7 +4740,7 @@
       "name": "Regular Fit Patterned resort shirt",
       "lastSeenDiscount": 24,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -4748,7 +4751,7 @@
       "name": "Regular Fit Crochet-look resort shirt",
       "lastSeenDiscount": 24,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -4759,7 +4762,7 @@
       "name": "Regular Fit Textured cotton shirt",
       "lastSeenDiscount": 24,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "XL",
@@ -4770,7 +4773,7 @@
       "name": "Regular Fit Polo shirt",
       "lastSeenDiscount": 24,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -4780,7 +4783,7 @@
       "name": "Regular Fit Pima cotton polo shirt",
       "lastSeenDiscount": 24,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "XXL"
@@ -4799,7 +4802,7 @@
       "name": "Regular Fit Resort shirt",
       "lastSeenDiscount": 24,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -4808,7 +4811,7 @@
       "name": "Loose Fit Washed hoodie",
       "lastSeenDiscount": 24,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL",
         "XXL"
@@ -4818,7 +4821,7 @@
       "name": "Straw hat",
       "lastSeenDiscount": 23,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S/56",
         "M/58",
@@ -4829,7 +4832,7 @@
       "name": "Keyring",
       "lastSeenDiscount": 23,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "NOSIZE"
       ]
@@ -4838,7 +4841,7 @@
       "name": "Regular Fit Embroidered resort shirt",
       "lastSeenDiscount": 23,
       "lastSeenPrice": 1999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -4850,7 +4853,7 @@
       "name": "Loose Fit T-shirt",
       "lastSeenDiscount": 23,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "M"
@@ -4860,7 +4863,7 @@
       "name": "Oversized Fit T-shirt",
       "lastSeenDiscount": 23,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -4878,7 +4881,7 @@
       "name": "Oversized Fit T-shirt",
       "lastSeenDiscount": 23,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -4887,7 +4890,7 @@
       "name": "Slim Fit Pima cotton T-shirt",
       "lastSeenDiscount": 23,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -4905,7 +4908,7 @@
       "name": "Relaxed Fit Cotton chinos",
       "lastSeenDiscount": 22,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28",
         "29",
@@ -4918,7 +4921,7 @@
       "name": "Regular Fit Lyocell-blend resort shirt",
       "lastSeenDiscount": 22,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -4930,7 +4933,7 @@
       "name": "Regular Fit Short-sleeved shirt",
       "lastSeenDiscount": 22,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "XXL"
@@ -4940,7 +4943,7 @@
       "name": "Regular Fit Long-sleeved resort shirt",
       "lastSeenDiscount": 22,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XXL"
@@ -4950,7 +4953,7 @@
       "name": "Slim Fit Linen suit waistcoat",
       "lastSeenDiscount": 22,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "32R",
         "34R",
@@ -4961,7 +4964,7 @@
       "name": "Relaxed Fit Shirt",
       "lastSeenDiscount": 22,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -4988,7 +4991,7 @@
       "name": "Loose Fit Crinkled resort shirt",
       "lastSeenDiscount": 22,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -4997,7 +5000,7 @@
       "name": "Regular Fit Knitted T-shirt",
       "lastSeenDiscount": 22,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL",
         "XXL"
@@ -5007,7 +5010,7 @@
       "name": "Relaxed Fit Printed resort shirt",
       "lastSeenDiscount": 22,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL"
@@ -5017,7 +5020,7 @@
       "name": "Oversized Fit Short-sleeved linen-blend shirt",
       "lastSeenDiscount": 22,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -5044,7 +5047,7 @@
       "name": "Slim Fit Vest top",
       "lastSeenDiscount": 21,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -5056,7 +5059,7 @@
       "name": "Slim Fit Polo shirt",
       "lastSeenDiscount": 21,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -5065,7 +5068,7 @@
       "name": "Relaxed Fit Cotton canvas shirt",
       "lastSeenDiscount": 21,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL",
@@ -5076,7 +5079,7 @@
       "name": "Relaxed Fit Patterned resort shirt",
       "lastSeenDiscount": 21,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -5085,7 +5088,7 @@
       "name": "Regular Fit Utility shirt",
       "lastSeenDiscount": 21,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T04:30:36.583Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M"
       ]
@@ -5094,7 +5097,7 @@
       "name": "Slim Fit Polo shirt",
       "lastSeenDiscount": 21,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -5112,7 +5115,7 @@
       "name": "Muscle Fit Grandad shirt",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -5121,7 +5124,7 @@
       "name": "Regular Fit Patterned resort shirt",
       "lastSeenDiscount": 21,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -5130,7 +5133,7 @@
       "name": "Relaxed Fit Trousers",
       "lastSeenDiscount": 21,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -5139,7 +5142,7 @@
       "name": "Regular Fit Boxy-style poplin shirt",
       "lastSeenDiscount": 21,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -5148,7 +5151,7 @@
       "name": "Loose Fit Sweatshirt",
       "lastSeenDiscount": 21,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M"
       ]
@@ -5157,7 +5160,7 @@
       "name": "Loose Fit Printed T-shirt",
       "lastSeenDiscount": 21,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -5166,7 +5169,7 @@
       "name": "Regular Fit T-shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M"
@@ -5176,7 +5179,7 @@
       "name": "Loose Fit Printed vest top",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -5186,7 +5189,7 @@
       "name": "Regular Fit shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -5200,7 +5203,7 @@
       "name": "Hexagon-shaped sunglasses",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "NOSIZE"
       ]
@@ -5209,7 +5212,7 @@
       "name": "Bow tie",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "ONESIZE"
       ]
@@ -5218,7 +5221,7 @@
       "name": "Regular Fit Shorts",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -5231,7 +5234,7 @@
       "name": "Regular Fit Shorts",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "XL",
@@ -5242,7 +5245,7 @@
       "name": "Relaxed Fit Chino shorts",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28",
         "29",
@@ -5255,7 +5258,7 @@
       "name": "Relaxed Fit Oxford shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL",
@@ -5266,7 +5269,7 @@
       "name": "Loose Fit Printed vest top",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "M"
@@ -5276,7 +5279,7 @@
       "name": "Relaxed Fit Trousers",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 2399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "34",
         "36"
@@ -5286,7 +5289,7 @@
       "name": "Regular Fit T-shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "XXL"
@@ -5296,9 +5299,8 @@
       "name": "Relaxed Fit Chino shorts",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "28",
         "29",
         "31"
       ]
@@ -5307,7 +5309,7 @@
       "name": "Relaxed Fit motif-detail cotton T-shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL"
@@ -5317,7 +5319,7 @@
       "name": "Regular Fit sweatshorts",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -5336,9 +5338,8 @@
       "name": "Slim Jeans",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "28/30",
         "30/32",
         "31/30",
         "32/30",
@@ -5350,7 +5351,7 @@
       "name": "Regular Fit Polo shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "M"
@@ -5360,7 +5361,7 @@
       "name": "COOLMAX® Regular Fit Vest top",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -5378,7 +5379,7 @@
       "name": "Relaxed Fit Short-sleeved cotton shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -5387,16 +5388,16 @@
       "name": "Relaxed Fit T-shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 799,
-      "lastSeenAt": "2026-10-26T12:30:37.425Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "M"
+        "XS"
       ]
     },
     "men:1348074001": {
       "name": "Relaxed Fit Resort shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 2399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -5405,7 +5406,7 @@
       "name": "Relaxed Fit Mesh shorts",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -5423,7 +5424,7 @@
       "name": "Relaxed Fit Linen-blend shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L",
@@ -5479,7 +5480,7 @@
       "name": "Relaxed Fit T-shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -5488,7 +5489,7 @@
       "name": "Loose Fit Polo shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -5515,9 +5516,8 @@
       "name": "Relaxed Fit Shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "M",
         "L"
       ]
     },
@@ -5525,7 +5525,7 @@
       "name": "Loose Fit Printed T-shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M"
       ]
@@ -5534,16 +5534,16 @@
       "name": "Oversized Fit Boxy-style t-shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1199,
-      "lastSeenAt": "2026-10-27T04:30:35.431Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "M"
+        "L"
       ]
     },
     "men:1348853001": {
       "name": "Regular Fit Embroidered resort shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 2399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XXL"
@@ -5571,7 +5571,7 @@
       "name": "Regular Fit Interlock sweatpants",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -5589,8 +5589,9 @@
       "name": "Relaxed Fit Short-sleeved shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
+        "XL",
         "XXL"
       ]
     },
@@ -5598,7 +5599,7 @@
       "name": "Slim Fit Textured jersey polo shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -5616,7 +5617,7 @@
       "name": "Loose Jeans",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "38/30"
       ]
@@ -5625,7 +5626,7 @@
       "name": "Regular Jeans",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "36/30"
       ]
@@ -5643,7 +5644,7 @@
       "name": "Relaxed Fit Denim shorts",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "30"
       ]
@@ -5661,7 +5662,7 @@
       "name": "Loose Jeans",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "38/30"
       ]
@@ -5679,7 +5680,7 @@
       "name": "Regular Fit Tailored trousers",
       "lastSeenDiscount": 19,
       "lastSeenPrice": 3229,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28R",
         "33R",
@@ -5690,7 +5691,7 @@
       "name": "Regular Fit Embroidered resort shirt",
       "lastSeenDiscount": 19,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M"
@@ -5700,7 +5701,7 @@
       "name": "Relaxed Fit overshirt",
       "lastSeenDiscount": 19,
       "lastSeenPrice": 3229,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XXL"
@@ -5710,9 +5711,8 @@
       "name": "Relaxed Fit Trousers",
       "lastSeenDiscount": 19,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "M",
         "L"
       ]
     },
@@ -5720,9 +5720,8 @@
       "name": "Original Straight Jeans",
       "lastSeenDiscount": 19,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "32/30",
         "36/30",
         "38/30"
       ]
@@ -5740,7 +5739,7 @@
       "name": "Regular Fit Short-sleeved shirt",
       "lastSeenDiscount": 19,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -5749,7 +5748,7 @@
       "name": "Relaxed Fit Corduroy trousers",
       "lastSeenDiscount": 19,
       "lastSeenPrice": 2099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28"
       ]
@@ -5758,7 +5757,7 @@
       "name": "Relaxed Fit Cotton-blend shirt",
       "lastSeenDiscount": 18,
       "lastSeenPrice": 2299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L"
@@ -5777,7 +5776,7 @@
       "name": "Relaxed Fit Textured resort shirt",
       "lastSeenDiscount": 17,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -5791,7 +5790,7 @@
       "name": "Loose Fit Shirt",
       "lastSeenDiscount": 17,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "L",
@@ -5802,7 +5801,7 @@
       "name": "Relaxed Fit Textured cotton trousers",
       "lastSeenDiscount": 17,
       "lastSeenPrice": 2499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -5815,7 +5814,7 @@
       "name": "Relaxed Fit Resort shirt",
       "lastSeenDiscount": 17,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -5824,7 +5823,7 @@
       "name": "Loose Fit Shirt",
       "lastSeenDiscount": 17,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "XL",
@@ -5835,7 +5834,7 @@
       "name": "Regular Fit Polo shirt",
       "lastSeenDiscount": 17,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "XXL"
@@ -5845,7 +5844,7 @@
       "name": "Relaxed Fit Scuba shorts",
       "lastSeenDiscount": 17,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -5856,7 +5855,7 @@
       "name": "Regular Fit shirt",
       "lastSeenDiscount": 17,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -5865,7 +5864,7 @@
       "name": "Regular Fit Lyocell-blend resort shirt",
       "lastSeenDiscount": 17,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL",
         "XXL"
@@ -5875,7 +5874,7 @@
       "name": "Relaxed Fit Textured cotton trousers",
       "lastSeenDiscount": 17,
       "lastSeenPrice": 2499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XXL"
@@ -5885,7 +5884,7 @@
       "name": "Relaxed Fit Scuba shorts",
       "lastSeenDiscount": 17,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -5895,7 +5894,7 @@
       "name": "Relaxed Fit Corduroy trousers",
       "lastSeenDiscount": 17,
       "lastSeenPrice": 2499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28"
       ]
@@ -5913,7 +5912,7 @@
       "name": "Relaxed Fit Short-sleeved utility shirt",
       "lastSeenDiscount": 17,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -5949,7 +5948,7 @@
       "name": "Oversized Fit T-shirt",
       "lastSeenDiscount": 15,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L",
@@ -5960,8 +5959,9 @@
       "name": "Oversized Fit T-shirt",
       "lastSeenDiscount": 15,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
+        "M",
         "L"
       ]
     },
@@ -5969,7 +5969,7 @@
       "name": "Loose Fit Sweatpants",
       "lastSeenDiscount": 15,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-26T16:30:42.180Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -5987,7 +5987,7 @@
       "name": "Slim Fit Cotton chinos",
       "lastSeenDiscount": 15,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28"
       ]
@@ -5996,7 +5996,7 @@
       "name": "Relaxed Fit Short-sleeved shirt",
       "lastSeenDiscount": 15,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL",
         "XXL"
@@ -6006,7 +6006,7 @@
       "name": "COOLMAX® Loose Fit T-shirt",
       "lastSeenDiscount": 15,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -6015,7 +6015,7 @@
       "name": "Oversized Fit T-shirt",
       "lastSeenDiscount": 15,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -6024,7 +6024,7 @@
       "name": "Relaxed Fit Cotton shirt",
       "lastSeenDiscount": 15,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -6042,7 +6042,7 @@
       "name": "Relaxed Fit Muslin shorts",
       "lastSeenDiscount": 15,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -6060,16 +6060,17 @@
       "name": "Straight Regular Jeans",
       "lastSeenDiscount": 15,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "33/30"
+        "33/30",
+        "34/30"
       ]
     },
     "men:1276191001": {
       "name": "Loose Fit Resort shirt",
       "lastSeenDiscount": 14,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "XL"
@@ -6079,7 +6080,7 @@
       "name": "Regular Fit Tailored joggers",
       "lastSeenDiscount": 14,
       "lastSeenPrice": 2399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "XXL"
@@ -6089,7 +6090,7 @@
       "name": "Regular Fit Textured cotton shirt",
       "lastSeenDiscount": 14,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -6099,7 +6100,7 @@
       "name": "Regular Fit Patterned resort shirt",
       "lastSeenDiscount": 14,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -6109,7 +6110,7 @@
       "name": "Relaxed Fit Cotton and lyocell tailored trousers",
       "lastSeenDiscount": 14,
       "lastSeenPrice": 2399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "36"
       ]
@@ -6127,7 +6128,7 @@
       "name": "Loose Fit Boxy-style T-shirt",
       "lastSeenDiscount": 14,
       "lastSeenPrice": 1199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -6136,7 +6137,7 @@
       "name": "Relaxed Fit Cotton and lyocell tailored trousers",
       "lastSeenDiscount": 14,
       "lastSeenPrice": 2399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "32",
         "36"
@@ -6146,7 +6147,7 @@
       "name": "COOLMAX®  Relaxed Fit T-shirt",
       "lastSeenDiscount": 13,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -6159,7 +6160,7 @@
       "name": "Relaxed Fit Shirt",
       "lastSeenDiscount": 13,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L",
@@ -6171,7 +6172,7 @@
       "name": "Relaxed Fit Resort shirt",
       "lastSeenDiscount": 13,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL",
@@ -6182,7 +6183,7 @@
       "name": "Relaxed Fit Short-sleeved Oxford shirt",
       "lastSeenDiscount": 13,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L",
@@ -6194,7 +6195,7 @@
       "name": "Regular Fit Washed T-shirt",
       "lastSeenDiscount": 13,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L",
         "XL",
@@ -6205,7 +6206,7 @@
       "name": "Regular Fit Cotton chino shorts",
       "lastSeenDiscount": 13,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28",
         "30",
@@ -6216,7 +6217,7 @@
       "name": "Oversized Fit Long-sleeved jersey top",
       "lastSeenDiscount": 13,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -6225,7 +6226,7 @@
       "name": "Slim Fit Polo shirt",
       "lastSeenDiscount": 13,
       "lastSeenPrice": 699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -6236,7 +6237,7 @@
       "name": "Relaxed Fit Shirt",
       "lastSeenDiscount": 13,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -6245,7 +6246,7 @@
       "name": "Slim Fit Jacquard-knit polo shirt",
       "lastSeenDiscount": 13,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -6254,7 +6255,7 @@
       "name": "Loose Fit T-shirt",
       "lastSeenDiscount": 13,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M"
       ]
@@ -6263,7 +6264,7 @@
       "name": "7-pack trainer socks",
       "lastSeenDiscount": 13,
       "lastSeenPrice": 699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "9-10.5"
       ]
@@ -6272,7 +6273,7 @@
       "name": "Slim Fit Cotton T-shirt",
       "lastSeenDiscount": 13,
       "lastSeenPrice": 699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -6281,7 +6282,7 @@
       "name": "Oversized Fit Printed cotton T-shirt",
       "lastSeenDiscount": 13,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -6290,7 +6291,7 @@
       "name": "Regular Fit Canvas shorts",
       "lastSeenDiscount": 13,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -6308,7 +6309,7 @@
       "name": "Four-way Stretch Wide Pull-on trousers",
       "lastSeenDiscount": 7,
       "lastSeenPrice": 2799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S",
@@ -6321,7 +6322,7 @@
       "name": "Oversized Fit Printed cotton T-shirt",
       "lastSeenDiscount": 7,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "L"
@@ -40555,9 +40556,9 @@
       "name": "Relaxed Fit Linen-blend resort shirt",
       "lastSeenDiscount": 55,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-27T12:30:37.509Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "M"
+        "XS"
       ]
     },
     "men:1314217003": {
@@ -41108,7 +41109,7 @@
       "name": "Straight Regular Jeans",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "31/32"
       ]
@@ -41117,7 +41118,7 @@
       "name": "Relaxed Fit Cotton resort shirt",
       "lastSeenDiscount": 17,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "XXL"
@@ -41127,7 +41128,7 @@
       "name": "Relaxed Fit Oxford shirt",
       "lastSeenDiscount": 15,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -42039,7 +42040,7 @@
       "name": "Regular Fit Linen-blend grandad shirt",
       "lastSeenDiscount": 17,
       "lastSeenPrice": 1899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "L"
@@ -42302,7 +42303,7 @@
       "name": "Regular Fit Cable-knit polo shirt",
       "lastSeenDiscount": 22,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -42311,9 +42312,9 @@
       "name": "Loose Fit Boxy-style T-shirt",
       "lastSeenDiscount": 14,
       "lastSeenPrice": 1199,
-      "lastSeenAt": "2026-10-28T04:30:36.215Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "XXL"
+        "S"
       ]
     },
     "men:1313926004": {
@@ -42818,12 +42819,12 @@
       "name": "Regular Fit Muslin resort shirt",
       "lastSeenDiscount": 69,
       "lastSeenPrice": 549,
-      "lastSeenAt": "2026-10-20T12:30:45.624Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "lastAlertedDiscount": 69,
       "lastAlertedPrice": 549,
       "lastAlertedAt": "2026-10-03T12:37:25.463Z",
       "sizesInStock": [
-        "M"
+        "S"
       ]
     },
     "men:1344897002": {
@@ -43337,8 +43338,9 @@
       "name": "Oversized Fit Boxy-style T-shirt",
       "lastSeenDiscount": 50,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
+        "M",
         "L"
       ]
     },
@@ -43391,9 +43393,8 @@
       "name": "Regular Fit Linen-blend resort shirt",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 1199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "L",
         "XXL"
       ]
     },
@@ -43401,7 +43402,7 @@
       "name": "Relaxed Fit T-shirt",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 599,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -43485,7 +43486,7 @@
       "name": "Sports shorts with DryMove™",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -43503,7 +43504,7 @@
       "name": "COOLMAX® Slim Fit Polo shirt",
       "lastSeenDiscount": 31,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -43611,7 +43612,7 @@
       "name": "Regular Fit Oxford shirt",
       "lastSeenDiscount": 22,
       "lastSeenPrice": 1399,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S",
         "M",
@@ -43658,9 +43659,9 @@
       "name": "Relaxed Jeans",
       "lastSeenDiscount": 15,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-27T08:30:35.758Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "31/30"
+        "33/32"
       ]
     },
     "men:1330414005": {
@@ -43676,7 +43677,7 @@
       "name": "Loose Fit T-shirt",
       "lastSeenDiscount": 13,
       "lastSeenPrice": 699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M"
       ]
@@ -45697,7 +45698,7 @@
       "name": "Relaxed Fit Denim shorts",
       "lastSeenDiscount": 25,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "30"
       ]
@@ -47622,7 +47623,7 @@
       "name": "Oversized Fit T-shirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M"
       ]
@@ -47868,7 +47869,7 @@
       "name": "Regular Fit Canvas shorts",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -47886,7 +47887,7 @@
       "name": "Regular Fit Resort shirt",
       "lastSeenDiscount": 13,
       "lastSeenPrice": 1299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -49961,7 +49962,7 @@
       "name": "Regular Fit V-neck polo shirt",
       "lastSeenDiscount": 61,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "lastAlertedDiscount": 61,
       "lastAlertedPrice": 1099,
       "lastAlertedAt": "2026-10-05T16:32:28.960Z",
@@ -49982,7 +49983,7 @@
       "name": "Loose Fit Printed zip-through hoodie",
       "lastSeenDiscount": 36,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -49991,7 +49992,7 @@
       "name": "Loose Fit Sweatshirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 799,
-      "lastSeenAt": "2026-10-17T08:30:38.280Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M"
       ]
@@ -50448,7 +50449,7 @@
       "name": "Straw bucket hat",
       "lastSeenDiscount": 60,
       "lastSeenPrice": 799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "lastAlertedDiscount": 60,
       "lastAlertedPrice": 799,
       "lastAlertedAt": "2026-10-05T22:32:40.355Z",
@@ -50592,9 +50593,9 @@
       "name": "Relaxed Fit Printed hoodie",
       "lastSeenDiscount": 48,
       "lastSeenPrice": 1199,
-      "lastSeenAt": "2026-10-16T20:30:40.982Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "M"
+        "S"
       ]
     },
     "men:1245648008": {
@@ -50637,7 +50638,7 @@
       "name": "Loose Fit Football shirt",
       "lastSeenDiscount": 35,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -50727,9 +50728,9 @@
       "name": "Loose Fit Sweatshirt",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 799,
-      "lastSeenAt": "2026-10-26T08:30:39.741Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "XS"
+        "M"
       ]
     },
     "men:1334854001": {
@@ -53017,7 +53018,7 @@
       "name": "Easy-care Linen-blend Regular Fit shirt",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -53584,7 +53585,7 @@
       "name": "Relaxed Fit Cotton T-shirt",
       "lastSeenDiscount": 53,
       "lastSeenPrice": 699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS",
         "S"
@@ -54080,7 +54081,7 @@
       "name": "Regular Fit Velvet suit trousers",
       "lastSeenDiscount": 70,
       "lastSeenPrice": 1199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "lastAlertedDiscount": 70,
       "lastAlertedPrice": 1199,
       "lastAlertedAt": "2026-10-06T16:31:00.630Z",
@@ -54088,8 +54089,7 @@
         "30R",
         "28R",
         "32R",
-        "36R",
-        "40R"
+        "36R"
       ]
     },
     "men:1306856004": {
@@ -54466,7 +54466,7 @@
       "name": "Loose Fit Polo shirt",
       "lastSeenDiscount": 18,
       "lastSeenPrice": 2299,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M",
         "XL"
@@ -55959,7 +55959,7 @@
       "name": "Relaxed Fit Short-sleeved cotton shirt",
       "lastSeenDiscount": 22,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -56887,7 +56887,7 @@
       "name": "Loose Fit Resort shirt",
       "lastSeenDiscount": 61,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "lastAlertedDiscount": 61,
       "lastAlertedPrice": 899,
       "lastAlertedAt": "2026-10-08T22:30:43.209Z",
@@ -58889,7 +58889,7 @@
       "name": "Original Straight Jeans",
       "lastSeenDiscount": 59,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "38/30"
       ]
@@ -60190,7 +60190,7 @@
       "name": "Relaxed Fit Linen-blend shorts",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -62333,7 +62333,7 @@
       "name": "Loose Fit Crinkled shirt",
       "lastSeenDiscount": 55,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -64414,7 +64414,7 @@
       "name": "Relaxed Fit Mesh shorts",
       "lastSeenDiscount": 60,
       "lastSeenPrice": 799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "lastAlertedDiscount": 60,
       "lastAlertedPrice": 799,
       "lastAlertedAt": "2026-10-15T16:31:04.932Z",
@@ -64856,16 +64856,16 @@
       "name": "Muscle Fit Sports top with DryMove™",
       "lastSeenDiscount": 42,
       "lastSeenPrice": 699,
-      "lastSeenAt": "2026-10-16T12:30:42.809Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "XL"
+        "L"
       ]
     },
     "men:1293189004": {
       "name": "2-pack socks",
       "lastSeenDiscount": 40,
       "lastSeenPrice": 599,
-      "lastSeenAt": "2026-10-29T00:30:39.438Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "6.5-8"
       ]
@@ -64883,7 +64883,7 @@
       "name": "Regular Fit Sports joggers",
       "lastSeenDiscount": 39,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -64937,7 +64937,7 @@
       "name": "Straight Regular Jeans",
       "lastSeenDiscount": 36,
       "lastSeenPrice": 1599,
-      "lastSeenAt": "2026-10-29T04:30:36.583Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "28/30"
       ]
@@ -64982,7 +64982,7 @@
       "name": "Slim Fit Knitted T-shirt",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -65000,7 +65000,7 @@
       "name": "Loose Fit Printed T-shirt",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 999,
-      "lastSeenAt": "2026-10-16T12:30:42.809Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XXL"
       ]
@@ -65018,7 +65018,7 @@
       "name": "Oversized Fit T-shirt",
       "lastSeenDiscount": 31,
       "lastSeenPrice": 899,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -65036,7 +65036,7 @@
       "name": "Regular Fit Textured cotton shirt",
       "lastSeenDiscount": 29,
       "lastSeenPrice": 1499,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "M"
       ]
@@ -65045,16 +65045,16 @@
       "name": "Loose Fit Hoodie",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 1099,
-      "lastSeenAt": "2026-10-27T22:30:35.817Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
-        "XL"
+        "L"
       ]
     },
     "men:1337744001": {
       "name": "Regular Fit Linen-blend resort shirt",
       "lastSeenDiscount": 27,
       "lastSeenPrice": 2199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -65153,7 +65153,7 @@
       "name": "Relaxed Fit Scuba vest top",
       "lastSeenDiscount": 20,
       "lastSeenPrice": 1199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -65189,7 +65189,7 @@
       "name": "Loose Fit T-shirt",
       "lastSeenDiscount": 14,
       "lastSeenPrice": 1199,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "L"
       ]
@@ -65366,7 +65366,7 @@
       "name": "Regular Fit Fine-knit shirt",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 1529,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -71142,7 +71142,7 @@
       "name": "Loose Fit Brushed resort shirt",
       "lastSeenDiscount": 33,
       "lastSeenPrice": 1529,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XS"
       ]
@@ -72616,7 +72616,7 @@
       "name": "Oversized Fit Hoodie",
       "lastSeenDiscount": 26,
       "lastSeenPrice": 1699,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "S"
       ]
@@ -74990,7 +74990,7 @@
       "name": "Easy-care Relaxed Fit Linen-blend shorts",
       "lastSeenDiscount": 36,
       "lastSeenPrice": 1799,
-      "lastSeenAt": "2026-10-29T08:30:37.034Z",
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
       "sizesInStock": [
         "XL"
       ]
@@ -79049,6 +79049,36 @@
       "lastSeenAt": "2026-10-29T08:31:33.658Z",
       "sizesInStock": [
         "6-8Y"
+      ]
+    },
+    "men:0972640188": {
+      "name": "Loose Fit T-shirt",
+      "lastSeenDiscount": 73,
+      "lastSeenPrice": 399,
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
+      "lastAlertedDiscount": 73,
+      "lastAlertedPrice": 399,
+      "lastAlertedAt": "2026-10-29T12:30:37.235Z",
+      "sizesInStock": [
+        "M"
+      ]
+    },
+    "men:1313254007": {
+      "name": "Relaxed Fit Linen-blend shirt",
+      "lastSeenDiscount": 57,
+      "lastSeenPrice": 999,
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
+      "sizesInStock": [
+        "M"
+      ]
+    },
+    "men:1241739014": {
+      "name": "Regular Fit Zip-top sweatshirt",
+      "lastSeenDiscount": 57,
+      "lastSeenPrice": 999,
+      "lastSeenAt": "2026-10-29T12:30:36.620Z",
+      "sizesInStock": [
+        "M"
       ]
     }
   }
